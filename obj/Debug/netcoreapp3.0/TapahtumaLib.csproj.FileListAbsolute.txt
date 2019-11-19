@@ -1,0 +1,10 @@
+C:\Users\marko\Documents\Academy\Week 8\TapahtumaKalenteri\TapahtumaLib\bin\Debug\netcoreapp3.0\TapahtumaLib.deps.json
+C:\Users\marko\Documents\Academy\Week 8\TapahtumaKalenteri\TapahtumaLib\bin\Debug\netcoreapp3.0\TapahtumaLib.dll
+C:\Users\marko\Documents\Academy\Week 8\TapahtumaKalenteri\TapahtumaLib\obj\Debug\netcoreapp3.0\TapahtumaLib.csprojAssemblyReference.cache
+C:\Users\marko\Documents\Academy\Week 8\TapahtumaKalenteri\TapahtumaLib\obj\Debug\netcoreapp3.0\TapahtumaLib.AssemblyInfoInputs.cache
+C:\Users\marko\Documents\Academy\Week 8\TapahtumaKalenteri\TapahtumaLib\obj\Debug\netcoreapp3.0\TapahtumaLib.AssemblyInfo.cs
+C:\Users\marko\Documents\Academy\Week 8\TapahtumaKalenteri\TapahtumaLib\bin\Debug\netcoreapp3.0\TapahtumaLib.runtimeconfig.json
+C:\Users\marko\Documents\Academy\Week 8\TapahtumaKalenteri\TapahtumaLib\bin\Debug\netcoreapp3.0\TapahtumaLib.runtimeconfig.dev.json
+C:\Users\marko\Documents\Academy\Week 8\TapahtumaKalenteri\TapahtumaLib\bin\Debug\netcoreapp3.0\TapahtumaLib.pdb
+C:\Users\marko\Documents\Academy\Week 8\TapahtumaKalenteri\TapahtumaLib\obj\Debug\netcoreapp3.0\TapahtumaLib.dll
+C:\Users\marko\Documents\Academy\Week 8\TapahtumaKalenteri\TapahtumaLib\obj\Debug\netcoreapp3.0\TapahtumaLib.pdb
