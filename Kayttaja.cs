@@ -1,17 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using TapahtumaLib.Models;
 
 namespace TapahtumaLib
 {
-    public class Tapahtuma
+    public class Kayttaja
     {
         EventDBContext db = new EventDBContext();
 
-        public List<Tapahtumat> KaikkiTapahtumat()
+        public List<Kayttajat> KaikkiKayttajat()
         {
-            return db.Tapahtumat.ToList();
+            return db.Kayttajat.ToList();
 
         }
     }

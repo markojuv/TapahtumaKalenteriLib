@@ -1,13 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Text;
 
-namespace TapahtumaLib.Models
+namespace TapahtumaLib
 {
-    public partial class Tapahtumat
+    public class OmatTapahtumat
     {
+        public int KayttajaId { get; set; }
+        public string KayttajaNimi { get; set; }
         public int TapahtumaId { get; set; }
-        public string Nimi { get; set; }
+        public string TapahtumaNimi { get; set; }
         public string Sijainti { get; set; }
         [DataType(DataType.Date)]
         public DateTime Päivämäärä { get; set; }
@@ -16,8 +19,5 @@ namespace TapahtumaLib.Models
         public string Kuvaus { get; set; }
         public string Linkki { get; set; }
         public bool? Ikäraja { get; set; }
-        public byte[] Kuva { get; set; }
-        public double? Lat { get; set; }
-        public double? Long { get; set; }
     }
 }
