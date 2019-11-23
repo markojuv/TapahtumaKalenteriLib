@@ -1,11 +1,7 @@
 {
   "profiles": {
     "TapahtumaLib": {
-      "commandName": "Project",
-      "environmentVariables": {
-        "Passu": "Passu1985!",
-        "User": "Juvo10"
-      }
+      "commandName": "Project"
     }
   }
 }
